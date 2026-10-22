@@ -25,3 +25,6 @@
 .path-group .timeline{margin-top:0}
 .path-group .upcoming{margin-top:1.2rem}
 @media(max-width:650px){.path-heading{align-items:flex-start}.path-index{width:44px;height:44px}}
+
+/* Hackathon : schéma authentique de l’équipe, conservé sans redessin */
+.hackathon-vis{background:#dad8c9;padding:0}.hackathon-vis img{width:100%;height:100%;min-height:210px;object-fit:contain;display:block}.hackathon-vis .visual-bottom{background:#071524dd;padding:6px 10px;border-radius:6px}
